@@ -3,7 +3,7 @@
 ## Overview of the analysis: Explain the purpose of this analysis.
 We have created this analysis to visualize Des Moines bike-sharing data to share with stakeholders. This way, all stakeholders are properly informed of bike usage and revenue data. Visualizations were created and arranged on Tableau.
 
-[link to dashboard](https://public.tableau.com/profile/dorna.abdi#!/vizhome/Module14Challenge_16181970568090/BikeStory?publish=yes)
+[link to Tableau dashboard](https://public.tableau.com/profile/dorna.abdi#!/vizhome/Module14Challenge_16181970568090/BikeStory?publish=yes)
 
 ## Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 
@@ -35,3 +35,4 @@ To summarize, bike sharing is a lucrative service but the users and the usage is
 1. First, I would recommend visuallizing the relationship between ride duration and start/end location. This way, stakeholders can identify the most high-leverage locations to invest in. 
 2. Next, I would recommend visualizing average revenue per bike ride to calculate profits. 
 
+[link to Tableau dashboard](https://public.tableau.com/profile/dorna.abdi#!/vizhome/Module14Challenge_16181970568090/BikeStory?publish=yes)
