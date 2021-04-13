@@ -26,7 +26,7 @@ Seeing how there is a huge gender disparity, I also wanted to see the distributi
 <br/> ![gender](gender.png) <br/> <br/> <br/> <br/> 
 
 Lastly, while trip volume is important, it is also important to visualize trip locations by mapping out starting location of bike users, regardless of anything else. It's clear that most riders are condensed right in the middle of the island. <br/> 
-<br/> ![tripStart](tripStart.png) <br/> <br/> <br/> <br/> 
+<br/> ![tripStart](tripStart.png) <br/> <br/>
 
 ## Summary
 To summarize, bike sharing is a lucrative service but the users and the usage is distributed very unevenly. More men rent out bikes and the most popular times align with rush hour in the mornings and at night. <br/> 
